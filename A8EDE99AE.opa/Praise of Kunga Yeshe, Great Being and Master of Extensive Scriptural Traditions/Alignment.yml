@@ -1,0 +1,31 @@
+segment_sources:
+  P4A63555E:
+    type: origin_type
+    relation: translation
+    language: en
+  PF7980EB7:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ad10d0be7bb546db91c89daa059a440e:
+    P4A63555E: ebb5ee3ae0314fc8bc2bbdf2a5cf5f6e
+    PF7980EB7: 2d487915ceda44e9931f728ade945c15
+  dee31e4139f34e6aae5728ce0fefcefe:
+    P4A63555E: 836b55c8e67943979b1766c03fdc4e02
+    PF7980EB7: ca82a136c9f2450797a3b1ac9cae6a3f
+  f087755dc8a043b1a01784b598d52c74:
+    P4A63555E: 593871eecd684baeaafc056bf0c59fb5
+    PF7980EB7: 0391f7dd36814a68ae72e1cc26b08f6e
+  34fbfafa63bf49c4b542d4452a219867:
+    P4A63555E: 9836a179ed69490bbf23b24cb40734df
+    PF7980EB7: c49ddfc65aaf4e499678f49ee1eb3dee
+  16f76f40e8ab4c9b8a03b1223ebe47c5:
+    P4A63555E: c11fb841eeeb4420acf33d8cc78756ef
+    PF7980EB7: 58ab3ac64a954ee78e5ea1d4614ee9fd
+  44d4a192e8a74eafa17d14fc45995122:
+    P4A63555E: 32cdf0814cc046968eb00b4ca4d0bb9b
+    PF7980EB7: e08c31ce15a64705a993c6711eb633bc
+  ed88e6eda5dd40c690d0bb57b608c39a:
+    P4A63555E: 208fd2fc563544c399a21f6970585ca6
+    PF7980EB7: 38110103d4c34b5fa170384be85d54ec
